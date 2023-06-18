@@ -1,0 +1,5 @@
+{
+  "name": "blocknote-demo",
+  "main": "src/server.ts",
+  "port": 2000
+}
